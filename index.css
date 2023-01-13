@@ -6,7 +6,7 @@ body {
     height: 100vh;
 }
 
-.container {
+.counter {
     background: white;
     max-width: 80%;
     margin: auto;
